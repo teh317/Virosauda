@@ -1,7 +1,7 @@
 
 # Virosauda - Premium Photo Enhancement Technology
 
-**Virosauda** is a proprietary photo enhancement technology designed to evoke the vividness, clarity, and nostalgia often associated with treasured memories. Inspired by the visual storytelling impact of brands like Dolby and Leica, Virosauda aims to set new standards in digital photo refinement by delivering unparalleled enhancement quality through our exclusive technology.
+**Virosauda** is a proprietary photo enhancement technology designed to evoke the vividness, clarity, and nostalgia often associated with treasured memories. Inspired by the visual storytelling impact of brands like Dolby and Leica, Virosauda aims to set new standards in digital photo refinement by delivering unparalleled enhancement quality through our exclusive technology. It was created by Tehillah Mwangada Kachila & Samuel Stanley Wambugu
 
 Our goal is to be the sole provider of direct access to the Virosauda core technology, while extending its effects through partnerships or integration with camera and image refinement applications. With Virosauda, users can expect more vivid colors, enhanced details, and refined quality in their photos, bringing even basic captures to life with premium aesthetics.
 
