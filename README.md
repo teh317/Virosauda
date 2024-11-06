@@ -1,2 +1,2 @@
 # Virosauda
-An powerful Camera Technology and related Apps.
+A powerful Camera Technology and  It's related Apps.
